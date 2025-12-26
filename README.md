@@ -1,3 +1,6 @@
+# Maintenance Note
+Umaintained. The forked project does not depend on jekyll-tagging anymore, which makes this gem redundant.
+
 # jekyll-tagging-related_posts
 
 [![Build Status](https://travis-ci.org/toshimaru/jekyll-tagging-related_posts.svg?branch=master)](https://travis-ci.org/toshimaru/jekyll-tagging-related_posts)
